@@ -1,2 +1,2 @@
-# go-lrucache
+# go-LRUcache
 A simple lru cache
